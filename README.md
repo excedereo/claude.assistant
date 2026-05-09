@@ -141,4 +141,4 @@ claudeListening.png  claudeThinking.png  claudeClose.png
 
 ## License
 
-MIT
+AGPL-3.0
