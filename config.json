@@ -1,0 +1,9 @@
+{
+  "hotkey": "f9",
+  "screenshot_hotkey": "f10",
+  "session_id": "0bd47205-a5ba-4c95-9392-1bfdf0a1c013",
+  "whisper_model": "small",
+  "sample_rate": 16000,
+  "overlay_opacity": 0.85,
+  "auto_hide_seconds": 15
+}
