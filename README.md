@@ -10,8 +10,12 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white"/>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white"/>
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-required-D97757"/>
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-22C55E"/>
+  <img alt="License" src="https://img.shields.io/badge/License-AGPL--3.0-purple"/>
   <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-8B5CF6"/>
+</p>
+
+<p align="center">
+  <a href="README_RU.md">🇷🇺 Русская версия</a>
 </p>
 
 ---
